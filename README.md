@@ -1,2 +1,2 @@
-# delphic.sass-utilities
+# skeletor.sass.utilities
 Bunch of sass mixins
