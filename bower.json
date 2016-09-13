@@ -5,7 +5,7 @@
     "Jeff <jmills@delphicdigital.com>"
   ],
   "description": "Bunch of sass mixins",
-  "main": "utilities.scss",
+  "main": "skeletor.sass.utilities.scss",
   "license": "MIT",
   "ignore": [
     "**/.*",
